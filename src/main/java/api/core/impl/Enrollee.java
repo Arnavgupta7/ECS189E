@@ -6,7 +6,7 @@ import java.util.Set;
 /**
  * Created by Vincent on 22/2/2017.
  */
-class Enrollee {
+    class Enrollee {
     private final String name;
     private final Set<Course> courses;
 
